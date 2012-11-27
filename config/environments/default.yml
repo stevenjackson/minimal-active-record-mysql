@@ -1,0 +1,5 @@
+mysql:
+  adapter: mysql2
+  encoding: utf8
+  database: information_schema
+  password: password
